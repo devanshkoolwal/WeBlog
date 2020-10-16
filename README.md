@@ -10,7 +10,7 @@ Functionality:
 2) Blog page shows full blog, edit page & delete blog buttons. edit will redirect to the new page and delete button will delete the blog from database.
 
 
-Landing Page
+<strong>Landing Page</strong>
 ![image](https://user-images.githubusercontent.com/48266405/96283736-43e12000-0ffa-11eb-9c26-91368ad49cea.png)
 
 New Blog Page
